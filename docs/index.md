@@ -10,6 +10,6 @@ A presentation exploring the role of Inverse Kinematics (IK) in creating realist
 
 | Slides | Presentation Walkthrough |
 |--------|--------------------------|
-| [Inverse Kinematics.pptx](../Inverse%20Kinematics.pptx) — PowerPoint<br>[Inverse Kinematics-1.pdf](../Inverse%20Kinematics-1.pdf) — PDF export | {::nomarkdown}<video src="../Inverse%20Kinematics.mp4" controls width="480"></video>{:/nomarkdown} |
+| [Inverse Kinematics.pptx](Inverse%20Kinematics.pptx) — PowerPoint<br>[Inverse Kinematics-1.pdf](Inverse%20Kinematics-1.pdf) — PDF export | {::nomarkdown}<video src="Inverse%20Kinematics.mp4" controls width="480"></video>{:/nomarkdown} |
 
 *Presentation walkthrough video*
