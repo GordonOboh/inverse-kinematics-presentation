@@ -1,0 +1,6 @@
+# Large raw video files (use compressed .mp4 instead)
+*.mov
+*.MOV
+
+# macOS metadata
+.DS_Store
