@@ -4,3 +4,12 @@
 
 # macOS metadata
 .DS_Store
+*.HEIC
+
+# Claude Code
+.claude/
+
+# Other project folders (each has its own repo)
+EHTP/
+NYU/
+CS650/
